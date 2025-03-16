@@ -35,9 +35,6 @@ A fully responsive and modern calculator built using HTML, CSS, and JavaScript. 
 ## Live Demo
 You can check out the live version [here](https://your-live-demo-link.com).
 
-## Screenshots
-![Calculator Preview](https://your-image-link.com)
-
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
